@@ -1,21 +1,17 @@
 [
   {
     "recipeId": 1,
-    "categoryId": 3,
+    "categoryId": 0,
     "title": "Green Gram Dosa Recipe",
     "photo_url": "greengramdosa/main.jpeg",
     "photosArray": [
-      "https://www.texanerin.com/content/uploads/2019/06/nobake-chocolate-cookies-1-650x975.jpg",
-      "https://namelymarly.com/wp-content/uploads/2018/04/20180415_Beet_Lasagna_10.jpg",
-      "https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.al.com/home/bama-media/width600/img/news_impact/photo/burger-fijpg-57e7e5907630c2ad.jpg",
-      "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492718105/articles/2013/09/24/burger-king-s-new-french-fries-took-ten-years-to-develop/130923-gross-burger-tease_izz59e",
-      "https://aht.seriouseats.com/images/2012/02/20120221-193971-fast-food-fries-Burger-King-fries-2.jpg"
+     "greengramdosa/main.jpeg"
     ],
     "time": "15",
     "ingredients": [
       [62, "1 cup soaked for 4-5 hours"],
-      [1, "5g"],
-      [2, "300g"]
+      [36, "2 medium (finely chopped)"],
+      [63, "2 (chopped)"]
     ],
     "description":[
       "To make green gram dosa, clean the green gram thoroughly.",
